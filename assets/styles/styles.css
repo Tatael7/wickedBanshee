@@ -7,6 +7,10 @@ body {
     width: 100%;
 }
 
+#foto {
+    position: relative;
+}
+
 #content {
     color: white;
     text-size-adjust: 25px;
@@ -18,6 +22,16 @@ body {
     border: 3px solid #73AD21;
 }
 
+#content2 {
+    color: white;
+    text-size-adjust: 25px;
+    position: absolute;
+    top: 600px;
+    right: 30%;
+    width: auto;
+    height: auto;
+    border: 3px solid #73AD21;
+}
 
 /* #holder {
     background-image: url("../images/stadium.jpg");
