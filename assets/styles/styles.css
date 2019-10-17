@@ -1,4 +1,24 @@
 body {
-    background-color: black;
+    background-color: #000000;
 }
 
+#holder {
+    opacity: 0.5;
+    width: 100%;
+}
+
+#content {
+    color: white;
+    text-size-adjust: 25px;
+    position: absolute;
+    top: 300px;
+    right: 30%;
+    width: auto;
+    height: auto;
+    border: 3px solid #73AD21;
+}
+
+
+/* #holder {
+    background-image: url("../images/stadium.jpg");
+} */
