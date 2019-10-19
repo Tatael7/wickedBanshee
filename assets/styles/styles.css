@@ -1,38 +1,21 @@
 body {
     background-color: #000000;
-}
-
-#holder {
-    opacity: 0.5;
-    width: 100%;
-}
-
-#foto {
-    position: relative;
-}
-
-#content {
     color: white;
-    text-size-adjust: 25px;
-    position: absolute;
-    top: 300px;
-    right: 30%;
-    width: auto;
-    height: auto;
-    border: 3px solid #73AD21;
 }
 
-#content2 {
-    color: white;
-    text-size-adjust: 25px;
-    position: absolute;
-    top: 600px;
-    right: 30%;
-    width: auto;
-    height: auto;
-    border: 3px solid #73AD21;
+#primeraCaja {
+    margin-top: 25px;
 }
 
-#prueba {
-    background-image: url("../images/hotGirl2.jpeg");
+#comingUp {
+    margin-top: 25px;
+    margin-right: 100px;
+}
+
+#collapseExample1 {
+    color: black;
+}
+
+#collapseExample16 {
+    color: black;
 }
