@@ -1,3 +1,31 @@
+header {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+    color: limegreen;
+}
+
+h1 {
+    color: white;
+}
+
+#who {
+    font-weight: bold;
+    font-size: 125px;
+}
+
+#da {
+    font-weight: bold;
+    font-size: 125px;
+}
+
+#intro {
+    margin-top: 100px;
+    /* border: solid 5px red; */
+}
+
 #patricio{
     position:absolute;
     top: 88px;
