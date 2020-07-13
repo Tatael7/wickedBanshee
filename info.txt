@@ -58,3 +58,8 @@ Best part about doing these podcasts are meeting people like PB Puma.
                     <span class="sr-only">Next</span>
                   </a>
                 </div>
+
+                                <a class="nav-link" href="https://www.instagram.com/wildbansheetv/?igshid=8uw5gszwn8z0" target="_blank">Instagram</a>
+                <a class="nav-link" href="https://soundcloud.com/wildbansheetv" target="_blank">Sound Cloud</a>
+                <a class="nav-link" href="https://www.facebook.com/wildbansheetv/" target="_blank">FaceBook</a>
+                
